@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anusha 👋
 
-<!--
-**Anusha268A/Anusha268A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at CVR College of Engineering
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building scalable web applications and exploring AI/ML
+
+## Tech Stack
+
+Java • Python • React • Node.js • SQL • Git • AWS
+
+## Featured Project
+
+### ParkEase – Smart Parking System
+A full-stack parking management solution that helps users find, reserve, and manage parking spaces efficiently.
+
+## Currently Learning
+
+- System Design
+- Cloud Computing
+- Advanced React
+- Machine Learning
+
+## Connect
+
+LinkedIn: linkedin.com/in/ajmeera-anusha-037b5132b
