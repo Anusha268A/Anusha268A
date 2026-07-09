@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anusha Ajmeera</h1>
 
+<h3 align="center">Full-Stack Developer | Java Developer | Aspiring Software Development Engineer</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;React+%7C+Node.js+Enthusiast;Aspiring+Software+Development+Engineer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;React+%7C+Node.js+Developer;Problem+Solver;Aspiring+Software+Development+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anusha268A&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Anusha268A&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -20,6 +22,10 @@
 <a href="https://github.com/Anusha268A">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://leetcode.com/u/AnushaAjmeera/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
@@ -28,9 +34,11 @@
 
 🎓 Computer Science Engineering Student at **CVR College of Engineering**
 
-💻 Passionate Full-Stack Developer with hands-on experience in building responsive web applications using modern web technologies.
+💻 Passionate Full-Stack Developer focused on building responsive, scalable, and user-friendly web applications.
 
-🚀 Interested in developing scalable software solutions and continuously improving problem-solving skills.
+🚀 I enjoy turning ideas into real-world applications and continuously improving my software development and problem-solving skills.
+
+🧩 Solved **200+ LeetCode problems** to strengthen my understanding of Data Structures & Algorithms.
 
 🎯 Currently preparing for **Software Development Engineer (SDE)** roles.
 
@@ -38,21 +46,35 @@
 
 # 🚀 Tech Stack
 
-<p align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mysql,git,github,aws,vscode,bootstrap"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
 </p>
 
----
+### 🎨 Frontend
 
-# 🌱 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+</p>
 
-- System Design Fundamentals
-- AWS Cloud Services
-- Advanced React
-- Backend Scalability
-- Data Structures & Algorithms
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,postman"/>
+</p>
 
 ---
 
@@ -60,18 +82,37 @@
 
 ## ParkEase – Smart Parking System
 
-A Full-Stack Smart Parking Management System developed using **React, Node.js, Express.js and MySQL**.
+A Full-Stack Parking Management System that allows users to discover, reserve, and manage parking spaces efficiently.
 
-### Features
+### ✨ Features
 
 - 🔐 JWT Authentication
-- 🚘 Slot Booking
-- 📅 Booking History
+- 🚗 Online Parking Slot Booking
+- 📋 Booking History
 - 💳 Payment Module
 - 👨‍💼 Admin Dashboard
-- 📱 Responsive UI
-- 🌐 REST APIs
+- 📱 Responsive User Interface
+- 🌐 REST API Integration
 - 🗄️ MySQL Database
+
+### 🛠️ Built With
+
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- JavaScript
+- Bootstrap
+
+---
+
+# 🌱 Currently Learning
+
+- System Design Fundamentals
+- AWS Cloud Computing
+- Advanced React
+- Backend Development
+- Software Engineering Best Practices
 
 ---
 
@@ -80,25 +121,20 @@ A Full-Stack Smart Parking Management System developed using **React, Node.js, E
 - 💯 Solved **200+ LeetCode Problems**
 - 🌟 GirlScript Summer of Code Contributor
 - ☕ Red Hat Certified in Java
-- 🗄 Oracle Database Programming with SQL Certified
+- 🗄️ Oracle Database Programming with SQL Certified
 - 🦈 GitHub Pull Shark Achievement
 - ⚡ GitHub Quickdraw Achievement
 
 ---
 
-# 📌 What I'm Working On
-
-- 🚀 Building Full-Stack Web Applications
-- 📚 Strengthening Data Structures & Algorithms
-- ☁️ Learning AWS Cloud Services
-- ⚡ Improving Backend Development Skills
-
----
-
-# 📈 GitHub Contributions
+# 💻 Coding Profiles
 
 <p align="center">
-<img src="https://ghchart.rshah.org/Anusha268A" alt="GitHub Contribution Chart"/>
+
+<a href="https://leetcode.com/u/AnushaAjmeera/">
+<img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
 ---
@@ -106,38 +142,48 @@ A Full-Stack Smart Parking Management System developed using **React, Node.js, E
 # 🛠️ Tools I Use
 
 - VS Code
-- Git & GitHub
-- Postman
-- MySQL
-- XAMPP
 - Eclipse IDE
 - IntelliJ IDEA
+- Git & GitHub
+- Postman
+- XAMPP
+- MySQL Workbench
 
 ---
 
-# 💻 Coding Profiles
+# 📌 Goals for 2026
 
-Coming Soon...
-
-- LeetCode
-- HackerRank
-
----
-
-# 📬 Connect With Me
-
-📧 **Email:** anushaajmeera4@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/ajmeera-anusha-037b5132b
-
-🐙 **GitHub:** https://github.com/Anusha268A
+- 🚀 Secure a Software Development Engineer role
+- 💻 Build impactful Full-Stack Projects
+- 📚 Strengthen System Design and Backend Development
+- ☁️ Gain deeper AWS Cloud knowledge
+- 🌟 Continue contributing to Open Source
 
 ---
 
-# 💡 Quote
+# 📫 Connect With Me
 
-> *"Keep learning, keep building, and let your work speak for itself."*
+📧 **Email:** **anushaajmeera4@gmail.com**
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/ajmeera-anusha-037b5132b
+
+💻 **GitHub:**  
+https://github.com/Anusha268A
+
+🧩 **LeetCode:**  
+https://leetcode.com/u/AnushaAjmeera/
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 💭 Favorite Quote
+
+> *"Success doesn't come from what you know; it comes from what you consistently build and improve."*
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Keep Learning • Keep Building • Keep Growing 🚀
+</p>
