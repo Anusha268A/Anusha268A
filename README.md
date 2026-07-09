@@ -113,7 +113,7 @@ React • Node.js • Express.js • MySQL • JavaScript • Bootstrap
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anusha268A&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anusha268A&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ React • Node.js • Express.js • MySQL • JavaScript • Bootstrap
 # 💻 Most Used Languages
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha268A&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anusha268A&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -137,7 +137,7 @@ React • Node.js • Express.js • MySQL • JavaScript • Bootstrap
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anusha268A&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anusha268A&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
