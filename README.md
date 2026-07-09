@@ -119,7 +119,6 @@ A Full-Stack Parking Management System that allows users to discover, reserve, a
 # 🏆 Achievements
 
 - 💯 Solved **200+ LeetCode Problems**
-- 🌟 GirlScript Summer of Code Contributor
 - ☕ Red Hat Certified in Java
 - 🗄️ Oracle Database Programming with SQL Certified
 - 🦈 GitHub Pull Shark Achievement
